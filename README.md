@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there, I'm Heavoice
 
-<!--
-**heavoice/heavoice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who loves building web and mobile applications with clean UI and solid backend logic.  
+Currently diving deeper into full-stack development and cross-platform mobile apps.  
+📫 Reach me at: muhwafiq1802@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Specialization
+
+### 💬 Languages  
+🟨 JavaScript &nbsp;&nbsp; 🐍 Python &nbsp;&nbsp; 🎯 Dart
+
+### ⚙️ Frameworks & Libraries  
+⚛️ React &nbsp;&nbsp; 🟩 Node.js &nbsp;&nbsp; 🔌 Express  
+📱 Flutter &nbsp;&nbsp; 🧩 Framer Motion &nbsp;&nbsp; 📊 ApexCharts
+
+### 🗄️ Backend & Databases  
+🛡️ Supabase &nbsp;&nbsp; 🐘 PostgreSQL &nbsp;&nbsp; 🔥 Firebase
+
+### 🎨 Tools & Design  
+🎮 Pygame &nbsp;&nbsp; 🧠 Git &nbsp;&nbsp; 🎨 Figma
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Connect with Me  
