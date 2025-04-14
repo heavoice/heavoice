@@ -25,7 +25,7 @@ Currently diving deeper into full-stack development and cross-platform mobile ap
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![heavoice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heavoice&show_icons=true&theme=radical)](https://github.com/heavoice)
 
 ---
 
