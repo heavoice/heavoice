@@ -2,7 +2,7 @@
 
 I'm a passionate developer who loves building web and mobile applications with clean UI and solid backend logic.  
 Currently diving deeper into full-stack development and cross-platform mobile apps.  
-📫 Reach me at: muhfafiq1802@gmail.com
+📫 Reach me at: muhwafiq1802@gmail.com
 
 ---
 
@@ -36,11 +36,6 @@ Currently diving deeper into full-stack development and cross-platform mobile ap
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heavoice&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heavoice&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heavoice&layout=compact&theme=radical&hide_border=true)
 
 ---
