@@ -36,7 +36,7 @@ Currently diving deeper into full-stack development and cross-platform mobile ap
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heavoice&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heavoice&layout=compact&theme=radical&langs_count=8&cache_seconds=1800)
 
 ---
 
